@@ -1,0 +1,27 @@
+{
+  "name": "recomaze",
+  "displayName": "Recomaze",
+  "version": "1.1.41",
+  "description": "Your marketing and sales, done by AI: Recomaze reads your website, your customers and your leads, prepares the work and brings it here every morning for your yes.",
+  "author": {
+    "name": "Recomaze",
+    "email": "better@recomaze.ai",
+    "url": "https://recomaze.ai"
+  },
+  "homepage": "https://recomaze.ai/integration-guides/claude-chatgpt",
+  "documentationUrl": "https://recomaze.ai/integration-guides/claude-chatgpt",
+  "supportUrl": "https://recomaze.ai/integration-guides/claude-chatgpt",
+  "privacyPolicyUrl": "https://recomaze.ai/privacy-policy",
+  "termsOfServiceUrl": "https://recomaze.ai/terms-of-service",
+  "icon": "./assets/icon.png",
+  "license": "Proprietary",
+  "keywords": [
+    "marketing",
+    "sales",
+    "crm",
+    "ai visibility",
+    "aeo",
+    "ecommerce",
+    "content"
+  ]
+}
